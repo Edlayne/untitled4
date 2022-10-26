@@ -17,6 +17,7 @@ public class AbrarNavigator {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.get("https://www.google.com.br/");
         driver.get("https://www.google.com.br/");
+        driver.get("https://www.google.com.br/");
 
 
     }
