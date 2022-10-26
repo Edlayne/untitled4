@@ -18,6 +18,9 @@ public class AbrarNavigator {
         driver.get("https://www.google.com.br/");
         driver.get("https://www.google.com.br/");
         driver.get("https://www.google.com.br/");
+        driver.get("https://www.google.com.br/");
+        driver.get("https://www.google.com.br/");
+
 
 
     }
